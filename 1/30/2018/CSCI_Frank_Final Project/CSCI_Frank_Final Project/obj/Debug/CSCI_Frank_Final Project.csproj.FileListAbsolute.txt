@@ -1,0 +1,21 @@
+c:\users\c sharp\documents\visual studio 2015\Projects\CSCI_Frank_Final Project\CSCI_Frank_Final Project\bin\Debug\CSCI_Frank_Final Project.exe.config
+c:\users\c sharp\documents\visual studio 2015\Projects\CSCI_Frank_Final Project\CSCI_Frank_Final Project\bin\Debug\CSCI_Frank_Final Project.exe
+c:\users\c sharp\documents\visual studio 2015\Projects\CSCI_Frank_Final Project\CSCI_Frank_Final Project\bin\Debug\CSCI_Frank_Final Project.pdb
+c:\users\c sharp\documents\visual studio 2015\Projects\CSCI_Frank_Final Project\CSCI_Frank_Final Project\bin\Debug\MoneyLIb.dll
+c:\users\c sharp\documents\visual studio 2015\Projects\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final Project.csprojResolveAssemblyReference.cache
+c:\users\c sharp\documents\visual studio 2015\Projects\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final_Project.Form1.resources
+c:\users\c sharp\documents\visual studio 2015\Projects\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final_Project.Properties.Resources.resources
+c:\users\c sharp\documents\visual studio 2015\Projects\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final Project.csproj.GenerateResource.Cache
+c:\users\c sharp\documents\visual studio 2015\Projects\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final Project.exe
+c:\users\c sharp\documents\visual studio 2015\Projects\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final Project.pdb
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\bin\Debug\CSCI_Frank_Final Project.exe.config
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\bin\Debug\CSCI_Frank_Final Project.exe
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\bin\Debug\CSCI_Frank_Final Project.pdb
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\bin\Debug\MoneyLIb.dll
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final_Project.Form1.resources
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final_Project.Properties.Resources.resources
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final Project.exe
+C:\Users\User\Desktop\Everything on the flashdrive\CSCI_Frank_Final Project\CSCI_Frank_Final Project\obj\Debug\CSCI_Frank_Final Project.pdb
