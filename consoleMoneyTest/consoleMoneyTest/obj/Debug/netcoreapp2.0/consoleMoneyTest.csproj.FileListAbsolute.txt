@@ -1,0 +1,12 @@
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\obj\Debug\netcoreapp2.0\consoleMoneyTest.csprojResolveAssemblyReference.cache
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\obj\Debug\netcoreapp2.0\consoleMoneyTest.csproj.CoreCompileInputs.cache
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\obj\Debug\netcoreapp2.0\consoleMoneyTest.AssemblyInfoInputs.cache
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\obj\Debug\netcoreapp2.0\consoleMoneyTest.AssemblyInfo.cs
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\bin\Debug\netcoreapp2.0\consoleMoneyTest.deps.json
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\bin\Debug\netcoreapp2.0\consoleMoneyTest.runtimeconfig.json
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\bin\Debug\netcoreapp2.0\consoleMoneyTest.runtimeconfig.dev.json
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\bin\Debug\netcoreapp2.0\consoleMoneyTest.dll
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\bin\Debug\netcoreapp2.0\consoleMoneyTest.pdb
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\bin\Debug\netcoreapp2.0\MoneyLib.dll
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\obj\Debug\netcoreapp2.0\consoleMoneyTest.dll
+C:\Users\finfa\source\repos\consoleMoneyTest\consoleMoneyTest\obj\Debug\netcoreapp2.0\consoleMoneyTest.pdb
