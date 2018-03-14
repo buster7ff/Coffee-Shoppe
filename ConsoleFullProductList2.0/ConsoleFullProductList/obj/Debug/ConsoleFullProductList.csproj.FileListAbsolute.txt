@@ -1,0 +1,8 @@
+C:\Users\finfa\source\repos\ConsoleFullProductList\ConsoleFullProductList\bin\Debug\ConsoleFullProductList.exe.config
+C:\Users\finfa\source\repos\ConsoleFullProductList\ConsoleFullProductList\bin\Debug\ConsoleFullProductList.exe
+C:\Users\finfa\source\repos\ConsoleFullProductList\ConsoleFullProductList\bin\Debug\ConsoleFullProductList.pdb
+C:\Users\finfa\source\repos\ConsoleFullProductList\ConsoleFullProductList\bin\Debug\MoneyLib.dll
+C:\Users\finfa\source\repos\ConsoleFullProductList\ConsoleFullProductList\obj\Debug\ConsoleFullProductList.csprojResolveAssemblyReference.cache
+C:\Users\finfa\source\repos\ConsoleFullProductList\ConsoleFullProductList\obj\Debug\ConsoleFullProductList.csproj.CoreCompileInputs.cache
+C:\Users\finfa\source\repos\ConsoleFullProductList\ConsoleFullProductList\obj\Debug\ConsoleFullProductList.exe
+C:\Users\finfa\source\repos\ConsoleFullProductList\ConsoleFullProductList\obj\Debug\ConsoleFullProductList.pdb
