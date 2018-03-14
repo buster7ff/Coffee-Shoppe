@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoppeform4.0", "shoppeform4.0.csproj", "{A70055A4-3AD6-4231-9043-8E5CC4B205AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A70055A4-3AD6-4231-9043-8E5CC4B205AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70055A4-3AD6-4231-9043-8E5CC4B205AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70055A4-3AD6-4231-9043-8E5CC4B205AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70055A4-3AD6-4231-9043-8E5CC4B205AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1671D571-A535-4780-9493-CC93A428CB2F}
+	EndGlobalSection
+EndGlobal
