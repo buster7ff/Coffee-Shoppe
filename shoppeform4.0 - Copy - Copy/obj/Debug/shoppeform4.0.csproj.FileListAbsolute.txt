@@ -1,0 +1,34 @@
+E:\shoppeform4.0\obj\Debug\shoppeform4.0.csprojResolveAssemblyReference.cache
+E:\shoppeform4.0\obj\Debug\shoppeform4._0.Form1.resources
+E:\shoppeform4.0\obj\Debug\shoppeform4._0.Properties.Resources.resources
+E:\shoppeform4.0\obj\Debug\shoppeform4.0.csproj.GenerateResource.Cache
+E:\shoppeform4.0\obj\Debug\shoppeform4.0.csproj.CoreCompileInputs.cache
+E:\shoppeform4.0\bin\Debug\shoppeform4.0.exe.config
+E:\shoppeform4.0\bin\Debug\shoppeform4.0.exe
+E:\shoppeform4.0\bin\Debug\shoppeform4.0.pdb
+E:\shoppeform4.0\bin\Debug\MoneyLib.dll
+E:\shoppeform4.0\obj\Debug\shoppeform4.0.exe
+E:\shoppeform4.0\obj\Debug\shoppeform4.0.pdb
+E:\shoppeform4.0 - Copy\bin\Debug\shoppeform4.0.exe.config
+E:\shoppeform4.0 - Copy\bin\Debug\shoppeform4.0.exe
+E:\shoppeform4.0 - Copy\bin\Debug\shoppeform4.0.pdb
+E:\shoppeform4.0 - Copy\bin\Debug\MoneyLib.dll
+E:\shoppeform4.0 - Copy\obj\Debug\shoppeform4.0.csprojResolveAssemblyReference.cache
+E:\shoppeform4.0 - Copy\obj\Debug\shoppeform4._0.Form1.resources
+E:\shoppeform4.0 - Copy\obj\Debug\shoppeform4._0.Properties.Resources.resources
+E:\shoppeform4.0 - Copy\obj\Debug\shoppeform4.0.csproj.GenerateResource.Cache
+E:\shoppeform4.0 - Copy\obj\Debug\shoppeform4.0.csproj.CoreCompileInputs.cache
+E:\shoppeform4.0 - Copy\obj\Debug\shoppeform4.0.exe
+E:\shoppeform4.0 - Copy\obj\Debug\shoppeform4.0.pdb
+E:\shoppeform4.0 - Copy - Copy\bin\Debug\shoppeform4.0.exe.config
+E:\shoppeform4.0 - Copy - Copy\bin\Debug\shoppeform4.0.exe
+E:\shoppeform4.0 - Copy - Copy\bin\Debug\shoppeform4.0.pdb
+E:\shoppeform4.0 - Copy - Copy\bin\Debug\MoneyLib.dll
+E:\shoppeform4.0 - Copy - Copy\obj\Debug\shoppeform4.0.csprojResolveAssemblyReference.cache
+E:\shoppeform4.0 - Copy - Copy\obj\Debug\shoppeform4._0.Form1.resources
+E:\shoppeform4.0 - Copy - Copy\obj\Debug\shoppeform4._0.Properties.Resources.resources
+E:\shoppeform4.0 - Copy - Copy\obj\Debug\shoppeform4.0.csproj.GenerateResource.Cache
+E:\shoppeform4.0 - Copy - Copy\obj\Debug\shoppeform4.0.csproj.CoreCompileInputs.cache
+E:\shoppeform4.0 - Copy - Copy\obj\Debug\shoppeform4.0.exe
+E:\shoppeform4.0 - Copy - Copy\obj\Debug\shoppeform4.0.pdb
+E:\shoppeform4.0 - Copy - Copy\obj\Debug\shoppeform4._0.Form2.resources
